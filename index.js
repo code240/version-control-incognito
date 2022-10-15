@@ -6,7 +6,7 @@ const app = express();
 
 const link = "msg.incognito.gq"; 
 const appLink = "https://msg.incognito.gq";
-const VersionCode = "jehdjwe1";
+const VersionCode = "vipin1.0.0";
 const updateNeed = 1; // 0 - no need , 1 - not compulsary to update , 2 - compulsary to update
 
 
