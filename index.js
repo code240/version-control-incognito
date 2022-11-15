@@ -4,7 +4,7 @@ const port = process.env.PORT || 9000;
 
 const app = express();
 
-const link = "msg.incognito.gq"; 
+const link = "playlink.fun"; 
 const appLink = "https://msg.incognito.gq";
 const VersionCode = "vipin1.1.0";
 const updateNeed = 1; // 0 - no need , 1 - not compulsary to update , 2 - compulsary to update
